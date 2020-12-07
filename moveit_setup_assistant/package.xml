@@ -39,6 +39,6 @@
   <!-- Optional: Gazebo integration. This is a heavy dependency so is disabled by default -->
   <!-- run_depend>gazebo_ros</run_depend -->
 
-  <test_depend>moveit_resources_panda_moveit_config</test_depend>
+  <!--test_depend>moveit_resources_panda_moveit_config</test_depend-->
   <test_depend>rosunit</test_depend>
 </package>

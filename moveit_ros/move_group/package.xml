@@ -35,7 +35,7 @@
   <run_depend>roscpp</run_depend>
 
   <test_depend>rostest</test_depend>
-  <test_depend>moveit_resources_fanuc_moveit_config</test_depend>
+  <!--test_depend>moveit_resources_fanuc_moveit_config</test_depend-->
 
   <export>
     <moveit_ros_move_group plugin="${prefix}/default_capabilities_plugin_description.xml"/>
