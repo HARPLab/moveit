@@ -49,6 +49,7 @@
   <run_depend>python</run_depend>
   <run_depend>eigenpy</run_depend>
 
-  <test_depend>moveit_resources</test_depend>
+  <test_depend>moveit_resources_fanuc_moveit_config</test_depend>
+  <test_depend>moveit_resources_panda_moveit_config</test_depend>
   <test_depend>rostest</test_depend>
 </package>
